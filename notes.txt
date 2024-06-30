@@ -1,0 +1,8 @@
+- Step 1 Upgrade pip : python3 -m pip install -U pip 
+- Step 2 install virtual environment : python3 -m pip install virtualenv
+- Step 3 Create virtual env : python3 -m virtualenv venv
+- Step 4 Activate the virtual environment : cd to the folder ->activate.bat file 
+- Step 4 Installing your packages in virtual environment -> pip install -e . 
+- Step 5 
+- Step 6 python -m pip freeze > requirements.txt
+- Step 7 python -m torchlite.nn.modules.activation
