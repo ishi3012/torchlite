@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: torchlite
+Version: 2.1.0
+Summary: torchlite: Small-scale implementation of PyTorch from the ground up.
+Home-page: https://github.com/xames3/torchlite/
+Author: Akshay Mestry (XAMES3)
+Author-email: xa@mes3.dev
+License: MIT
+Project-URL: Source, https://github.com/xames3/torchlite
+Project-URL: Tracker, https://github.com/xames3/torchlite/issues
+Keywords: torchlite,pytorch,python
+Platform: osx
+Platform: linux
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities
+Classifier: Typing :: Typed
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
