@@ -1,20 +1,4 @@
-"""\
-NanoTorch Setup
-===============
 
-Author: Akshay Mestry <xa@mes3.dev>
-Created on: Saturday, December 02 2023
-Last updated on: Saturday, December 02 2023
-
-This will install the ``nanotorch`` package in a python 3.10+
-environment. Before proceeding, please ensure you have a virtual
-environment setup & running.
-
-See https://github.com/xames3/nanotorch/ for more help.
-
-:copyright: (c) 2024 Akshay Mestry (XAMES3). All rights reserved.
-:license: MIT, see LICENSE for more details.
-"""
 
 import platform
 import site
@@ -35,7 +19,7 @@ _current_py_version: str = platform.python_version()
 
 if parse_version(_current_py_version) < parse_version(_min_py_version):
     raise SystemExit(
-        "Could not install nanotorch! It requires python version 3.10+, "
+        "Could not install torchlite! It requires python version 3.10+, "
         f"you are using {_current_py_version}..."
     )
 
